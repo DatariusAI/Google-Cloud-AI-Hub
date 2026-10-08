@@ -1,0 +1,30 @@
+{
+  "arxiv_query": "abs:\"Google Cloud\" OR abs:\"Vertex AI\" OR abs:TPU OR abs:Gemini",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "PROJ",
+      "queries": [
+        "org:GoogleCloudPlatform generative ai",
+        "org:GoogleCloudPlatform vertex"
+      ]
+    },
+    {
+      "key": "CODE",
+      "queries": [
+        "org:GoogleCloudPlatform",
+        "org:google-gemini"
+      ]
+    },
+    {
+      "key": "COMM",
+      "queries": [
+        "vertex ai",
+        "bigquery ml",
+        "gemini api"
+      ]
+    }
+  ]
+}
