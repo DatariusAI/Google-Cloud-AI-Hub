@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **Vertex AI, Gemini, BigQ
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-21 04:27 UTC_
+_Last refreshed: 2026-11-22 04:28 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -37,11 +37,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- PROJ:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform | Jupyter Notebook | 17,967 | 2026-11-20 |
-| [GoogleCloudPlatform/asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion) | Notebooks, code samples and reference for machine learning and generative ai on Google Cloud for the Advanced Solutions Lab (ASL) bootcamps. | Jupyter Notebook | 2,617 | 2026-11-15 |
-| [GoogleCloudPlatform/applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples) | This repository compiles code samples and notebooks demonstrating how to use Generative AI on Google Cloud Vertex AI. | Jupyter Notebook | 859 | 2026-11-20 |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform | Jupyter Notebook | 17,973 | 2026-11-20 |
+| [GoogleCloudPlatform/asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion) | Notebooks, code samples and reference for machine learning and generative ai on Google Cloud for the Advanced Solutions Lab (ASL) bootcamps. | Jupyter Notebook | 2,618 | 2026-11-15 |
+| [GoogleCloudPlatform/applied-ai-engineering-samples](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples) | This repository compiles code samples and notebooks demonstrating how to use Generative AI on Google Cloud Vertex AI. | Jupyter Notebook | 860 | 2026-11-20 |
 | [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) | Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI | Jupyter Notebook | 801 | 2026-11-19 |
-| [GoogleCloudPlatform/genai-factory](https://github.com/GoogleCloudPlatform/genai-factory) | A collection of end-to-end infrastructure blueprints to deploy generative AI infrastructures in GCP, using IaC and following security best-p | HCL | 185 | 2026-11-20 |
+| [GoogleCloudPlatform/genai-factory](https://github.com/GoogleCloudPlatform/genai-factory) | A collection of end-to-end infrastructure blueprints to deploy generative AI infrastructures in GCP, using IaC and following security best-p | HCL | 186 | 2026-11-21 |
 | [GoogleCloudPlatform/terraform-genai-doc-summarization](https://github.com/GoogleCloudPlatform/terraform-genai-doc-summarization) | Summarizes document using OCR and Vertex Generative AI LLM | HCL | 165 | 2026-09-08 |
 <!-- PROJ:END -->
 
@@ -51,12 +51,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 108,957 | 2026-11-21 |
-| [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. | Go | 21,209 | 2026-11-17 |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | An open-source AI agent that brings the power of Gemini directly into your terminal. | TypeScript | 108,977 | 2026-11-22 |
+| [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) | Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. | Go | 21,208 | 2026-11-17 |
 | [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | Get started with building Fullstack Agents using Gemini 2.5 and LangGraph | Jupyter Notebook | 18,372 | 2026-06-14 |
-| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform | Jupyter Notebook | 17,967 | 2026-11-20 |
-| [google-gemini/cookbook](https://github.com/google-gemini/cookbook) | Examples and guides for using the Gemini API | Jupyter Notebook | 17,966 | 2026-11-19 |
-| [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | Google Cloud Knowledge Catalog Tools and Samples | TypeScript | 9,696 | 2026-11-21 |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform | Jupyter Notebook | 17,973 | 2026-11-20 |
+| [google-gemini/cookbook](https://github.com/google-gemini/cookbook) | Examples and guides for using the Gemini API | Jupyter Notebook | 17,965 | 2026-11-21 |
+| [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) | Google Cloud Knowledge Catalog Tools and Samples | TypeScript | 9,707 | 2026-11-21 |
 <!-- CODE:END -->
 
 ## 🌍 Community projects
@@ -65,12 +65,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models | TypeScript | 88,980 | 2026-10-20 |
-| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing | Go | 59,116 | 2026-11-21 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage track | Go | 52,285 | 2026-11-20 |
-| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, Open | TypeScript | 47,370 | 2026-11-21 |
-| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！ |  | 46,441 | 2026-10-30 |
-| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | Go | 46,367 | 2026-11-20 |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models | TypeScript | 88,984 | 2026-10-20 |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing | Go | 59,190 | 2026-11-22 |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage track | Go | 52,323 | 2026-11-20 |
+| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, Open | TypeScript | 47,397 | 2026-11-22 |
+| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！ |  | 46,493 | 2026-10-30 |
+| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | Go | 46,412 | 2026-11-22 |
 <!-- COMM:END -->
 
 ## 📚 Free learning resources
